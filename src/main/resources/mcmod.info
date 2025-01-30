@@ -1,0 +1,16 @@
+[
+{
+  "modid": "OFA",
+  "name": "OFA Mod",
+  "description": "One For ALL mod for Hypixel Skyblock",
+  "version": "0.1.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Lupici"],
+  "credits": "Created by Lupici",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
