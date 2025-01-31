@@ -30,7 +30,6 @@ public class Main {
     }
 
     // public static boolean onSkyblock;
-    public static final String apiKey = ""; // THIS SHOULD NOT BE HERE
     public static Map<String, Product> productMap;
 
     @Mod.EventHandler

@@ -7,12 +7,12 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.Map;
 
-import static lupici.ofa.Main.apiKey;
 import static lupici.ofa.Main.productMap;
 
 public class Bazaar {
 
     public static final double TAX = 1.125; // REMEMBER TO USE / 100
+    public static final String apiKey = System.getenv("API_KEY");
 
     // Fetch and parse data :)
     private static final String urlString = "https://api.hypixel.net/skyblock/bazaar?key=" + apiKey;
